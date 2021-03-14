@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../../Desktop/9781789803822_Code/9781789803822_Code/Chapter03/Sprite_Animation/horse_1.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>tux.png</file>
+    </qresource>
+</RCC>

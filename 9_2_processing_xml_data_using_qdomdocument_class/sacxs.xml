@@ -1,0 +1,9 @@
+<!DOCTYPE contact>
+<contact category="Family">
+ <name>John Doe</name>
+ <age>32</age>
+</contact>
+<contact category="Friend">
+ <name>Jane Smith</name>
+ <age>22</age>
+</contact>

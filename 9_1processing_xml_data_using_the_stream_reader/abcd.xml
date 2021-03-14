@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact category="Friend">
+    <name>John Doe</name>
+    <age>32</age>
+    <address>114B, 2nd Floor, Sterling apt, Morrison Town</address>
+    <phone>0221743566</phone>
+</contact>
+<contact category="Family">
+    <name>Jane Smith</name>
+    <age>24</age>
+    <address>13, Ave Park, Alexandria</address>
+    <phone>02123442231</phone>
+</contact>

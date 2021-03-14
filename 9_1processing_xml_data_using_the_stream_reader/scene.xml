@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene>
+	<object tag="building">
+		<name>Libarary</name>
+		<position>120.0,0.0,50.68</position>
+		<rotation>0.0,0.0,0.0</rotation>
+		<scale>1.0,1.0,1.0</scale>
+	</object>
+	<object tag="building">
+		<name>Town Haloo</name>
+		<position>80.2,0.0,20.5</position>
+		<rotation>0.0,0.0,0.0</rotation>
+		<scale>1.0,1.0,1.0</scale>
+	</object>
+</scene>
